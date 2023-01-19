@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
-/* jFgS8tteGD425f4oZfygQVaVnD6gt6GucN2yyz3xFek */
+@import url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
 
 html {
   box-sizing: border-box;
@@ -47,13 +45,13 @@ h1 {
   margin-top: 5px;
 }
 
-/* Media Query: Large Smartphone */
+/* Media Query: Large Smartphone Vertical */
 @media screen and (max-width: 600px) {
   h1 {
     font-size: 20px;
   }
 
   .image-container {
-    margin: 10px; 
+    margin: 10px;
   }
 }
